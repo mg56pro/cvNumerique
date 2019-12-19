@@ -66,4 +66,11 @@ p
 }
 .textebio{
 	/* inserer espaces entre les paragraphes !!! */
-
+a.button{
+	padding: 10px 30px;
+	background: blue;
+	color: white;
+	}
+a.button:hover {
+background: black;
+}
