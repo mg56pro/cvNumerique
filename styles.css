@@ -11,7 +11,7 @@ body {
 }
 
 .navbar a {
-  color: #aaa;
+  color: white;
   display: inline-block;
   font-size: 15px;
   padding: 10px;
@@ -34,11 +34,11 @@ p
 	text-align: center;
 	
 	
-	border: 3px blue dotted;
+	border: 3px blue solid;
 	
 }
 #nom{
-	border: 3px blue dashed;
+	border: 3px blue solid;
 }
 .blink {
 	animation: blinker 1s linear infinite;
@@ -66,4 +66,4 @@ p
 }
 .textebio{
 	/* inserer espaces entre les paragraphes !!! */
-}
+
